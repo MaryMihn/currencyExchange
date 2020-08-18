@@ -1,0 +1,42 @@
+.block-flex {
+  display: block;
+  max-height: 120px;
+  max-width: 230px;
+  border: 1px solid gray;
+  background: rgb(204, 204, 201);
+  margin: 0 20px;
+}
+
+.block-flex-big{
+  display: block;
+  border: 1px solid gray;
+  background: rgb(204, 204, 201);
+  margin: 0 20px;
+}
+
+.block-flex-big div{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+
+.currency-name{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.currency-in, .currency-out, .currency-for{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.currency-for{
+  font-size: 10px;
+}
+

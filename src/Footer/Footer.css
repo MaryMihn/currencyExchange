@@ -1,0 +1,40 @@
+
+
+.footer .footer-bottom{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background: #202020;
+}
+
+.footer .footer-bottom ul li a  {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #fff;
+  line-height: 30px;
+  display: block;
+  position: relative;
+  margin-left: 23px;
+  text-decoration: none;
+}
+
+.footer-title {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.footer-title a{
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+
+.flex-conteiner{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-item{
+  margin-right: 30px;
+}
+

@@ -1,0 +1,22 @@
+
+
+.block-flex-big{
+  display: block;
+  border: 1px solid gray;
+  background: rgb(204, 204, 201);
+  margin: 0 20px;
+}
+
+.block-flex-big div{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.calc-res{
+  margin-bottom: 30px;
+}
+
+.calc-res li{
+  margin-top: 7px;
+}
+

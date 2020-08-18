@@ -1,0 +1,18 @@
+.header-nav {
+  background: #3b621c;
+  min-height: 40px; 
+}
+
+.header-nav .conteiner ul li {
+  display: inline;
+}
+
+.header-nav .conteiner ul li a{
+  color: #fff;
+  display: inline-block;
+  text-decoration: none ;
+  padding-top: 20px;
+  min-height: 40px;
+  margin: 0 20px;
+}
+
